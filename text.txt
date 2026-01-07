@@ -2,7 +2,8 @@ Farbplette
 
 Rot
 Grün
-Blau
+Hellbau
+Dunkelblau
 Gelb
 Magenta
 Sind alles tolle Farben
