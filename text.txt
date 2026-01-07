@@ -1,8 +1,9 @@
 Farbplette
 
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
-Sind alles tolle Farben
+Sind alles tolle Farben.
